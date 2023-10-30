@@ -12,7 +12,7 @@
 
 ## UML - State diagram
 
-<img src="./gallery/UML Aqua Sway" alt="UML State Diagram" />
+<img src="./gallery/UML Aqua Sway.png" alt="UML State Diagram" />
 
 
 
